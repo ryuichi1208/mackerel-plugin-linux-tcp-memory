@@ -15,3 +15,9 @@ $ ./mackerel-plugin-linux-tcp-memory
 linutTcp.tcpMem.tcp_memory_size	0	1640016474
 linutTcp.udpMem.udp_memory_size	4096	1640016474
 ```
+
+## Install
+
+```
+$ mkr plugin install ryuichi1208/mackerel-plugin-linux-tcp-memory
+```
